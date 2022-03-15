@@ -4,7 +4,7 @@
 
 ![Marcelo FILIPOV's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelofilipov&theme=graywhite&show_icons=true)
 
-## Tecnologias que eu uso no meu dia-a-dia
+## Technologies I use in my day-to-day
 
 <div style="display: inline_block"><br>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
